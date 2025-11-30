@@ -1,7 +1,9 @@
 # Raizoca
 
 <p align="center">
-  <img src="https://source.unsplash.com/1600x400/?coding,dark,desk" alt="Banner: dark coding desk" style="width:100%; max-height:320px; object-fit:cover;" />
+  <img src="https://images.unsplash.com/photo-1691360844167-8a24eb71e1cd" 
+       alt="Banner: dark coding desk" 
+       style="width:100%; max-height:320px; object-fit:cover;" />
 </p>
 
 <p align="center">
@@ -24,11 +26,15 @@ Interesses principais: Java, Python, HTML/JS e ambientes Linux.
 
 ## Visual / Galeria
 <p align="center">
-  <img src="https://source.unsplash.com/800x450/?developer,setup,dark" alt="Developer setup" style="max-width:80%;" />
+  <img src="https://images.unsplash.com/photo-1691360744946-de4762d1f8c3" 
+       alt="Developer setup" 
+       style="max-width:80%;" />
 </p>
 
 <p align="center">
-  <img src="https://source.unsplash.com/800x450/?code,terminal,dark" alt="Code on screen" style="max-width:80%;" />
+  <img src="https://images.unsplash.com/photo-1691360502458-5e771bd63b64" 
+       alt="Code on screen" 
+       style="max-width:80%;" />
 </p>
 
 ## Como usar este README
@@ -36,4 +42,3 @@ Substitua as URLs de imagem por arquivos do seu repositório (ex: `/assets/banne
 
 ## Contato
 **Raí (Raizoca)**
-
