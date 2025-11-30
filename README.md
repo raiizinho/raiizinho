@@ -1,7 +1,7 @@
 # Raizoca
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1691360844167-8a24eb71e1cd" 
+  <img src="https://i.pinimg.com/originals/14/ae/7e/14ae7ede205573466d68eb3a562fe349.gif" 
        alt="Banner: dark coding desk" 
        style="width:100%; max-height:320px; object-fit:cover;" />
 </p>
@@ -36,9 +36,6 @@ Interesses principais: Java, Python, HTML/JS e ambientes Linux.
        alt="Code on screen" 
        style="max-width:80%;" />
 </p>
-
-## Como usar este README
-Substitua as URLs de imagem por arquivos do seu repositório (ex: `/assets/banner.png`) quando tiver suas imagens.
 
 ## Contato
 **Raí (Raizoca)**
