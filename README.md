@@ -24,18 +24,5 @@ Interesses principais: Java, Python, HTML/JS e ambientes Linux.
 - `forms-js` — protótipos de formulários com validação front-end.  
 - `ocr-experiments` — testes com OCR e automação de imagens.
 
-## Visual / Galeria
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1691360744946-de4762d1f8c3" 
-       alt="Developer setup" 
-       style="max-width:80%;" />
-</p>
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1691360502458-5e771bd63b64" 
-       alt="Code on screen" 
-       style="max-width:80%;" />
-</p>
-
 ## Contato
 **Raí (Raizoca)**
