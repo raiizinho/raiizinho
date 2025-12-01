@@ -26,3 +26,11 @@ Interesses principais: Java, Python, HTML/JS e ambientes Linux.
 
 ## Contato
 **Raí (Raizoca)**
+<p>
+  <a href="https://bsky.app/profile/yraiizx" target="_blank">
+    <img alt="Bluesky Follow" src="https://img.shields.io/badge/Bluesky-_-0285FF?style=for-the-badge&logo=bluesky">
+  </a>
+  <a href="https://www.instagram.com/yraiizx/" target="_blank">
+    <img alt="Instagram Follow" src="https://img.shields.io/badge/Instagram-_-red?style=for-the-badge&logo=instagram">
+  </a>
+</p>
